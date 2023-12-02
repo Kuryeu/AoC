@@ -6,3 +6,9 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 I will participate in the 2023 AoC using Python. 
 I let my code here as a trace of my accomplishments 
 
+#Accomplishments 2023 :
+
+| Day | Part 1 | Part 2 | Time  |
+| :-- | :------| :------| :---- |
+| `1` | `🌟`    | `🌟`    | 42 mn |
+| `2` | `🌟`    | `🌟`    | 35 mn |
