@@ -1,12 +1,6 @@
-from aocd import get_data
-file= get_data(day=6, year=2023)
 ans=1
-for x, line in enumerate(file.splitlines()):
-    print(line)
-print(ans)
-
-time = [50748685]
-distance = [242101716911252]
+time = [50,74,86,85]
+distance = [242,1017,1691,1252]
 
 for i in range(len(time)):
     localAns=0
